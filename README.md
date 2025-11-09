@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- I am Buidling Qudemo - Interactive Video Agent for SAAS websites
+- I am building Qudemo - Interactive Video Agent for SAAS websites
 
